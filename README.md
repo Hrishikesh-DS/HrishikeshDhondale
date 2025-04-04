@@ -1,4 +1,4 @@
-![Banner](https://github.com/KartikeySharma/KartikeySharma/assets/36632816/3af92a71-055a-4200-96e9-75063b99ac33)
+![Banner](https://github.com/user-attachments/assets/3b55b01c-59cb-460d-a6df-92fce1f7f376)
 
 
 
