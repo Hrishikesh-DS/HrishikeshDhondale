@@ -16,9 +16,9 @@
 <br>
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## I'm an Android enthusiast and a Masters student at Northeastern University!  
+## I'm a passionate and driven Master of Science in Computer Science student at Northeastern University, with a strong background in Mobile/Front-end development and cloud computing  
 
-- Mobile Developer adept at creating robust Android, iOS, and React Native applications. Gained hands-on industry experience at Capgemini, developing innovative IoT solutions and refining agile processes. Revitalized Tymeline’s cross-platform apps through dynamic debugging and advanced code architecture. Now shaping tomorrow’s engineers as a Teaching Assistant at Northeastern, blending academic insight with real-world expertise.
+Mobile Developer adept at creating robust Android, iOS, and React Native applications. Gained hands-on industry experience at Capgemini, developing innovative IoT solutions and refining agile processes. Revitalized Tymeline’s cross-platform apps through dynamic debugging and advanced code architecture. Now shaping tomorrow’s engineers as a Teaching Assistant at Northeastern, blending academic insight with real-world expertise.
 
 <br>
 
